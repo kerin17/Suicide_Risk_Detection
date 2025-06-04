@@ -1,4 +1,4 @@
-# 🧠 Mental Health & Suicide Risk Detection Using NLP
+# 💻 Mental Health & Suicide Risk Detection Using NLP
 
 This project explores the application of Natural Language Processing (NLP) techniques to detect signs of mental illness and assess suicide risk based on Reddit posts. It combines deep learning models and linguistic analysis to provide early warning signals that could support intervention strategies.
 
