@@ -63,7 +63,7 @@ This project explores the application of Natural Language Processing (NLP) techn
 
 - NLP can effectively identify language patterns associated with mental health struggles.
 - Combining illness classification with suicide risk prediction allows for a more nuanced and targeted detection model.
-- Such models could support mental health professionals in early screening and triage efforts.
+- Such model could support mental health professionals in early screening and triage efforts.
 
 ---
 
@@ -85,10 +85,10 @@ This project explores the application of Natural Language Processing (NLP) techn
 
 ## 📁 Repository Contents
 
-- `notebooks/` – Jupyter notebooks with full code  
-- `data/` – Not included due to size; available via external links  
-- `models/` – Trained model files
-- `README.md` – Project overview  
+- `notebooks/` - Jupyter notebooks with full code  
+- `data/` - not included due to size; available via external links  
+- `models/` - trained model files
+- `README.md` - project overview  
 
 ---
 
